@@ -1,6 +1,5 @@
 # Intial django rest framework setup
 
-
 <br>
 
 # Docker container setup
@@ -18,6 +17,12 @@
 
 ## Build the image using the docker-compose configuration
 ```docker-compose build```
+
+<br>
+
+# Travis CI Setup
+## Create and setup .travis.yml
+```touch .travis.yml```
 
 <br>
 <br>
